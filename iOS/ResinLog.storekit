@@ -1,0 +1,46 @@
+{
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_locale" : "en_US",
+    "_storefront" : "USA"
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "com.shimondeitel.curetracker.pro.monthly.group",
+      "localizations" : [],
+      "name" : "Resin Log - Cure Tracker Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "com.shimondeitel.curetracker.pro.monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Ambient Temp Cure Adjustor",
+              "displayName" : "Resin Log - Cure Tracker Pro Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.curetracker.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Resin Log - Cure Tracker Pro Monthly",
+          "subscriptionGroupID" : "com.shimondeitel.curetracker.pro.monthly.group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US",
+    "_storefront" : "USA"
+  },
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
